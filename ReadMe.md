@@ -16,9 +16,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anaghjaiswar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Alternative using github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=Anaghjaiswar&show_icons=true&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Anaghjaiswar&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Corrected Visitor Count Code -->
+[![](https://komarev.com/ghpvc/?username=Anaghjaiswar&color=blue)](https://github.com/Anaghjaiswar)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
