@@ -17,7 +17,7 @@ I build real-time systems: low-latency voice agents, concurrency-safe trading ba
 | Project | What it is |
 |---|---|
 | [**PocketTerminal**](https://github.com/Anaghjaiswar/pocket-terminal) | Remote terminal in Go for running AI coding CLIs from your phone. Single binary, ConPTY/PTY abstraction, reconnectable sessions, Cloudflare tunnel |
-| **RheumaLink** | Clinic management platform: OPD queueing, WhatsApp triage, DAS28 scoring, voice-to-prescription, AI lab-report extraction |
+| [**RheumaLink**](https://github.com/Anaghjaiswar/rheumalink) | Clinic management platform: OPD queueing, WhatsApp triage, DAS28 scoring, voice-to-prescription, AI lab-report extraction |
 | **ColdMail AI** | Self-hosted RAG pipeline (Docling + pgvector + Groq) that drafts tailored cold emails from your resume |
 
 ## Tech
