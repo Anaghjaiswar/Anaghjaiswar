@@ -16,9 +16,9 @@ I build real-time systems: low-latency voice agents, concurrency-safe trading ba
 ## Featured projects
 | Project | What it is |
 |---|---|
-| [**PocketTerminal**](https://github.com/Anaghjaiswar/pocket-terminal) | Remote terminal in Go for running AI coding CLIs from your phone. Single binary, ConPTY/PTY abstraction, reconnectable sessions, Cloudflare tunnel |
 | [**RheumaLink**](https://github.com/Anaghjaiswar/rheumalink) | Clinic management platform: OPD queueing, WhatsApp triage, DAS28 scoring, voice-to-prescription, AI lab-report extraction |
-| **ColdMail AI** | Self-hosted RAG pipeline (Docling + pgvector + Groq) that drafts tailored cold emails from your resume |
+| [**PocketTerminal**](https://github.com/Anaghjaiswar/pocket-terminal) | Remote terminal in Go for running AI coding CLIs from your phone. Single binary, ConPTY/PTY abstraction, reconnectable sessions, Cloudflare tunnel |
+| [**ColdMail AI**](https://github.com/Anaghjaiswar/AI-Powered-Cold-Email-Application-Assistant.git) | Self-hosted RAG pipeline (Docling + pgvector + Groq) that drafts tailored cold emails from your resume |
 
 ## Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
